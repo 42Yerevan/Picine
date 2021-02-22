@@ -1,0 +1,5 @@
+Credentials cache: API:9371B064-D76D-4DAD-818E-83A07C2D8248
+        Principal: vmusaely@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Oct 24 18:14:35 2020  Oct 25 04:14:26 2020  krbtgt/42YEREVAN.AM@42YEREVAN.AM
